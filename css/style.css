@@ -1,0 +1,31 @@
+/*header style*/
+.header-wraper {
+	background: lightblue;
+	padding: 24px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.logo {
+	display: inline-block;
+	margin-right: 30px;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+}
+body {
+	height: 1160px;
+}
+.container {
+	width: 1400px;
+	margin: 0 auto;
+}
+.block {
+	display: inline-block;
+	width: 340px;
+	background: yellow;
+}
