@@ -17,15 +17,39 @@
 .nav-li {
 	display: inline-block;
 }
-body {
-	height: 1160px;
+
+
+.size {
+	margin-right: 20px;
+
 }
-.container {
-	width: 1400px;
-	margin: 0 auto;
-}
+
 .block {
 	display: inline-block;
-	width: 340px;
+	width: 320px;
 	background: yellow;
+
+}
+.right-block {
+	display: inline-block;
+	width: 230px;
+	vertical-aling:top ;
+
+
+}
+.left-block {
+	display: inline-block;
+	width: 760px;
+	vertical-align: top;
+}
+.container2 {
+	width: 1184px;
+	margin: 0 auto;
+
+}
+p {
+	width: 280px;
+}
+.images {
+	width: 320px;
 }
