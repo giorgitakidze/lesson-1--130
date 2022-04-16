@@ -17,19 +17,27 @@
 .nav-li {
 	display: inline-block;
 }
-
-
 .size {
 	margin-right: 20px;
 
 }
 
+
 .block {
 	display: inline-block;
-	width: 320px;
+	width: 360px;
 	background: yellow;
+	position: relative;
 
 }
+
+
+.title-image {
+	position: absolute;
+	left: 40px;
+	top: 28px;
+}
+
 .right-block {
 	display: inline-block;
 	width: 230px;
