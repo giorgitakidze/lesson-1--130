@@ -6,6 +6,7 @@
 	top: 0;
 	left: 0;
 	width: 100%;
+	z-index: 30px;
 }
 .logo {
 	display: inline-block;
@@ -36,6 +37,7 @@
 	position: absolute;
 	left: 40px;
 	top: 28px;
+	color: #fff;
 }
 
 .right-block {
